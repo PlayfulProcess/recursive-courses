@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "description": "Public-domain courses by PlayfulProcess. MDX files served via raw.githubusercontent.com — no build step required.",
+  "license": "CC-BY-SA-4.0",
+  "courses": [
+    {
+      "slug": "build-a-tarot-deck-with-claude",
+      "title": "Build a Tarot Deck with Claude Code",
+      "description": "Work the way the Recursive Tarot was built: clone the public repo, use Claude Code to turn a public-domain deck into a grammar, source images from Wikimedia Commons, preview it locally, and push it back so anyone can play it in recursive.eco.",
+      "duration_minutes": 60,
+      "author": "PlayfulProcess",
+      "audience": "Anyone with a deck they love and no prior coding experience",
+      "mdx_url": "https://raw.githubusercontent.com/PlayfulProcess/recursive-courses/main/courses/build-a-tarot-deck-with-claude/course.mdx"
+    }
+  ]
+}
